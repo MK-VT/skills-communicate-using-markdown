@@ -1,3 +1,5 @@
-# Cool Image
+# Uncool Code
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "look into my eyes and say to me";
+```
